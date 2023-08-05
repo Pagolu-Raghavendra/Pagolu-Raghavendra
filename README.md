@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pagolu Raghavendra
 - 👀 I’m interested in programming and database management
-- 🌱 I’m currently learning 2nd year CSE courses in Vasireddy Venkatadri Institute of Technology
+- 🌱 I’m currently learning 3rd year CSE courses in Vasireddy Venkatadri Institute of Technology
 - 📫 How to reach me Ph.No:+91-6309087036 or Email: raghavendramadhu0@gmail.com
 
 <!---
